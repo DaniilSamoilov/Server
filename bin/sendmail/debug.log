@@ -1,0 +1,76 @@
+23.04.23 22:34:30 ** --- MESSAGE BEGIN ---
+23.04.23 22:34:30 ** To: danya.sam2@yandex.ru
+23.04.23 22:34:30 ** Subject: Забытый пароль
+23.04.23 22:34:30 ** From: tochka.obshcheniya@yandex.ru
+23.04.23 22:34:30 ** 
+23.04.23 22:34:30 ** tyghbn
+23.04.23 22:34:30 ** --- MESSAGE END ---
+23.04.23 22:34:30 ** Connecting to smtp.yandex.ru:465
+23.04.23 22:34:31 ** Connected.
+23.04.23 22:34:31 << 220 mail-nwsmtp-smtp-production-main-38.myt.yp-c.yandex.net (Want to use Yandex.Mail for your domain? Visit http://pdd.yandex.ru) 1682278471-VYKlJRVDRSw0<EOL>
+23.04.23 22:34:31 >> EHLO DESKTOP-PGPNKAT<EOL>
+23.04.23 22:34:31 << 250-mail-nwsmtp-smtp-production-main-38.myt.yp-c.yandex.net<EOL>250-8BITMIME<EOL>250-PIPELINING<EOL>250-SIZE 53477376<EOL>250-STARTTLS<EOL>250-AUTH LOGIN PLAIN XOAUTH2<EOL>250-DSN<EOL>250 ENHANCEDSTATUSCODES<EOL>
+23.04.23 22:34:31 ** Authenticating as tochka.obshcheniya@yandex.ru
+23.04.23 22:34:31 >> AUTH LOGIN<EOL>
+23.04.23 22:34:31 << 334 VXNlcm5hbWU6<EOL>
+23.04.23 22:34:31 >> dG9jaGthLm9ic2hjaGVuaXlhQHlhbmRleC5ydQ==<EOL>
+23.04.23 22:34:31 << 334 UGFzc3dvcmQ6<EOL>
+23.04.23 22:34:31 >> cWpka3ZvbG50bmhyd2lzdw==<EOL>
+23.04.23 22:34:31 << 235 2.7.0 Authentication successful. 1682278471-VYKlJRVDRSw0<EOL>
+23.04.23 22:34:31 >> MAIL FROM: <tochka.obshcheniya@yandex.ru><EOL>
+23.04.23 22:34:31 << 250 2.1.0 <tochka.obshcheniya@yandex.ru> ok 1682278471-VYKlJRVDRSw0-jo4x7fZX<EOL>
+23.04.23 22:34:31 >> RCPT TO: <danya.sam2@yandex.ru><EOL>
+23.04.23 22:34:31 << 250 2.1.5 <danya.sam2@yandex.ru> recipient ok 1682278471-VYKlJRVDRSw0-jo4x7fZX<EOL>
+23.04.23 22:34:31 >> DATA<EOL>
+23.04.23 22:34:31 << 354 Start mail input, end with <CRLF>.<CRLF><EOL>
+23.04.23 22:34:31 >> Date: Sun, 23 Apr 2023 22:34:31 +0300<EOL>
+23.04.23 22:34:31 >> To: danya.sam2@yandex.ru<EOL>
+23.04.23 22:34:31 >> Subject: Забытый пароль<EOL>
+23.04.23 22:34:31 >> From: tochka.obshcheniya@yandex.ru<EOL>
+23.04.23 22:34:31 >> <EOL>
+23.04.23 22:34:31 >> tyghbn<EOL>
+23.04.23 22:34:31 >> .<EOL>
+23.04.23 22:34:31 << 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-38.myt.yp-c.yandex.net 1682278472-VYKlJRVDRSw0-jo4x7fZX<EOL>
+23.04.23 22:34:31 >> QUIT<EOL>
+23.04.23 22:34:31 << 221 2.0.0 Closing connecton<EOL>
+23.04.23 22:34:31 ** Disconnecting from smtp.yandex.ru:465
+23.04.23 22:34:31 ** Disconnected.
+23.04.23 22:34:31 ** Disconnected.
+23.04.23 22:35:15 ** --- MESSAGE BEGIN ---
+23.04.23 22:35:15 ** To: danya.sam2@yandex.ru
+23.04.23 22:35:15 ** Subject: Забытый пароль
+23.04.23 22:35:15 ** From: tochka.obshcheniya@yandex.ru
+23.04.23 22:35:15 ** 
+23.04.23 22:35:15 ** tyghbn
+23.04.23 22:35:15 ** --- MESSAGE END ---
+23.04.23 22:35:15 ** Connecting to smtp.yandex.ru:465
+23.04.23 22:35:15 ** Connected.
+23.04.23 22:35:15 << 220 mail-nwsmtp-smtp-production-main-54.iva.yp-c.yandex.net (Want to use Yandex.Mail for your domain? Visit http://pdd.yandex.ru) 1682278515-FZKLQsTDbCg0<EOL>
+23.04.23 22:35:15 >> EHLO DESKTOP-PGPNKAT<EOL>
+23.04.23 22:35:15 << 250-mail-nwsmtp-smtp-production-main-54.iva.yp-c.yandex.net<EOL>250-8BITMIME<EOL>250-PIPELINING<EOL>250-SIZE 53477376<EOL>250-STARTTLS<EOL>250-AUTH LOGIN PLAIN XOAUTH2<EOL>250-DSN<EOL>250 ENHANCEDSTATUSCODES<EOL>
+23.04.23 22:35:15 ** Authenticating as tochka.obshcheniya@yandex.ru
+23.04.23 22:35:15 >> AUTH LOGIN<EOL>
+23.04.23 22:35:15 << 334 VXNlcm5hbWU6<EOL>
+23.04.23 22:35:15 >> dG9jaGthLm9ic2hjaGVuaXlhQHlhbmRleC5ydQ==<EOL>
+23.04.23 22:35:15 << 334 UGFzc3dvcmQ6<EOL>
+23.04.23 22:35:15 >> cWpka3ZvbG50bmhyd2lzdw==<EOL>
+23.04.23 22:35:15 << 235 2.7.0 Authentication successful. 1682278516-FZKLQsTDbCg0<EOL>
+23.04.23 22:35:15 >> MAIL FROM: <tochka.obshcheniya@yandex.ru><EOL>
+23.04.23 22:35:15 << 250 2.1.0 <tochka.obshcheniya@yandex.ru> ok 1682278516-FZKLQsTDbCg0-YCj7wSQG<EOL>
+23.04.23 22:35:15 >> RCPT TO: <danya.sam2@yandex.ru><EOL>
+23.04.23 22:35:15 << 250 2.1.5 <danya.sam2@yandex.ru> recipient ok 1682278516-FZKLQsTDbCg0-YCj7wSQG<EOL>
+23.04.23 22:35:15 >> DATA<EOL>
+23.04.23 22:35:15 << 354 Start mail input, end with <CRLF>.<CRLF><EOL>
+23.04.23 22:35:15 >> Date: Sun, 23 Apr 2023 22:35:15 +0300<EOL>
+23.04.23 22:35:15 >> To: danya.sam2@yandex.ru<EOL>
+23.04.23 22:35:15 >> Subject: Забытый пароль<EOL>
+23.04.23 22:35:15 >> From: tochka.obshcheniya@yandex.ru<EOL>
+23.04.23 22:35:15 >> <EOL>
+23.04.23 22:35:15 >> tyghbn<EOL>
+23.04.23 22:35:15 >> .<EOL>
+23.04.23 22:35:15 << 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-54.iva.yp-c.yandex.net 1682278516-FZKLQsTDbCg0-YCj7wSQG<EOL>
+23.04.23 22:35:15 >> QUIT<EOL>
+23.04.23 22:35:16 << 221 2.0.0 Closing connecton<EOL>
+23.04.23 22:35:16 ** Disconnecting from smtp.yandex.ru:465
+23.04.23 22:35:16 ** Disconnected.
+23.04.23 22:35:16 ** Disconnected.
